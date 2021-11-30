@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and investigate about blockchain tech ...
 - 💞️ I'm looking to collaborate on free software always as I can ...
 - 📫 How to reach me ? wel I'm on twitter as @RichardLaya
+- 📝 Currently working on privates repos.
 
 <!---
 RichardLaya/RichardLaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
